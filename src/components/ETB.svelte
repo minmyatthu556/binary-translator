@@ -6,8 +6,6 @@
   let value = '';
   let converted = '';
 
-  
-
   const handleTranslate = () => {
     let convertedArray = [];
     const textArray = value.split('');

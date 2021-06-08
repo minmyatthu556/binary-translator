@@ -12,9 +12,9 @@
     background-color: #101820ff;
     color: #f2aa4cff;
   }
-  @media only screen and (max-width: 360px) {
+  @media only screen and (max-width: 520px) {
     header {
-      font-size: 1rem;
+      font-size: 2rem;
     }
   }
 </style>
